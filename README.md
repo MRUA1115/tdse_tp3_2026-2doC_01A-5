@@ -3,8 +3,8 @@
 
 # FIUBA - Electrónica - Taller de Sistemas Embebidos
 ## Trabajo Práctico N°: 3 - LCD Display - System Setup Menu
-### Año-Cuatrimestre - Curso-Grupo
+### 2026-2doC-01A-5
 ### Responsable de la entrega:
 | Padrón | Apellidos, Nombres | Fecha | Deadline |
 | :----- | :--------------------- | :------: | :-------: |
-| XXXXXX | YYYY, ZZZ | | Semana 08 |
+| 10989 | Kogan, Tobias Daniel | 19/10/2026 | Semana 08 |
